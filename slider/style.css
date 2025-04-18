@@ -23,8 +23,9 @@ body{
     max-width: 1300px;
     margin: 0 60px 35px;
     padding: 20px 10px;
-    overflow: hidden;
+    overflow: hidden; 
 }
+/* sample changes */
 .card-link .card-item .card-link{
     user-select: none;
     display: block;
